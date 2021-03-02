@@ -21,6 +21,7 @@ The model needs to emphasize more on learning the features surrounding a tumorou
 The number of patches extracted where same across all classes thereby making the model input class-balanced.
 The patches were extracted across all 4 modalities and hence the dimension of model input became 4x33x33.
 The patches were also randomly augmented (rotation augmentation) as a regularization step.
+
 ![image](https://user-images.githubusercontent.com/36618302/109579678-5f3f5a00-7ac7-11eb-83e2-bdecf7497163.png)
 
 ## Model Architecture
