@@ -40,4 +40,8 @@ Different Tumor classes were coded with different color for visual comparison be
 ![image](https://user-images.githubusercontent.com/36618302/109579938-cbba5900-7ac7-11eb-91c1-4426ae0d5df3.png)
 
 ## Results
+Following are the segmentation outputs produced by the model for three different patients.
 
+![patien-0](https://github.com/christopher-roy29/BrainTumorSegmentation-CNN/blob/main/Model%20prediction%20output%20converted%20to%20gifs/patient_0_model_output.gif)
+![patient-1](https://github.com/christopher-roy29/BrainTumorSegmentation-CNN/blob/main/Model%20prediction%20output%20converted%20to%20gifs/patient_3_model_output.gif)
+![patient-2](https://github.com/christopher-roy29/BrainTumorSegmentation-CNN/blob/main/Model%20prediction%20output%20converted%20to%20gifs/patient_7_model_output.gif)
