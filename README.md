@@ -7,6 +7,8 @@ MR imaging allows using different modalities for mapping tumor-induced tissue ch
 BRATS 2013 dataset consist of images with 4 modalities Fluid Attenuated Inversion Recovery (FLAIR), T1, T1-contrasted, and T2.
 It consists MRI images of 20 patients with either of anaplastic astrocytomas or glioblastoma multiforme tumors. There are a total of 155 slices in each of the 4 modalities of scanning for a single patient with manually segmented tumors in all the slices . Hence each patient contributes about 620 images in the dataset.
 
+![Dataset-GIF](https://github.com/christopher-roy29/BrainTumorSegmentation-CNN/blob/main/Model%20prediction%20output%20converted%20to%20gifs/Training%20input%20of%20patients%20converted%20to%20gifs/patient_3.gif)
+
 ## Pre-processing of MR images
 Pre-processing is important because of the artifacts produced either by inhomogeneity in the magnetic field or small movements made by the patient during scan time.
 This results in low frequency intensity non-uniformity to be present in MRI image data and is known as a bias or gain field.
